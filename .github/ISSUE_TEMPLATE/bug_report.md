@@ -9,7 +9,8 @@ assignees: khuedoan
 
 A clear and concise description of what the bug is.
 
-- [ ] I have read the document
+- [ ] I have read the documentation
+- [ ] I have searched open issues
 
 ### To reproduce
 
@@ -23,10 +24,14 @@ Steps to reproduce the behavior:
 
 A clear and concise description of what you expected to happen.
 
-### Screenshots
+### Logs and screenshots
 
-If applicable, add screenshots to help explain your problem.
+If applicable, add logs and/or screenshots to help explain your problem.
 
 ### Additional context
 
-Add any other context about the problem here (hardware, OS, etc.).
+Add any other context about the problem here, for example:
+
+- Hardware, OS
+- Link to your fork of the project (if any)
+- etc.
